@@ -3,7 +3,6 @@
 """
 Created on Mon Jun 19 18:09:55 2023
 
-@author: bhkang
 """
 
 import requests
