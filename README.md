@@ -4,4 +4,4 @@ ML test project<br>
   &nbsp;.. Upbit 'ADA' price and volume data download<br>
   &nbsp;.. Candle chart of '60min'<br>
   &nbsp;.. Can adjust data count through the 'count='<br>
-. ML_Model : <br>
+. ML_Model : machine_learn_xgboost.py<br>
